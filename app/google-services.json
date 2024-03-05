@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543282977862",
+    "project_id": "cloudnote-50b99",
+    "storage_bucket": "cloudnote-50b99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543282977862:android:24bbc747d0fc9a4416be47",
+        "android_client_info": {
+          "package_name": "com.example.cloudnote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhgnKrMs-ldOWHlQH_AyXkvBQdrClc8kE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

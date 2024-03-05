@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/nav_graph">
+
+    <fragment
+            android:id="@+id/emailInputFragment"
+            android:name="com.example.cloudnote.fragments.EmailInputFragment"
+            android:label="fragment_email_input"
+            tools:layout="@layout/fragment_email_input">
+        <action
+                android:id="@+id/action_emailToOTP"
+                app:destination="@id/otpFragment" />
+    </fragment>
+
+    <fragment
+            android:id="@+id/otpFragment"
+            android:name="com.example.cloudnote.fragments.OTPFragment"
+            android:label="fragment_otp"
+            tools:layout="@layout/fragment_otp">
+        <action
+                android:id="@+id/action_OTPToPassword"
+                app:destination="@id/passwordFragment" />
+    </fragment>
+
+    <fragment
+            android:id="@+id/passwordFragment"
+            android:name="com.example.cloudnote.fragments.PasswordFragment"
+            android:label="fragment_password"
+            tools:layout="@layout/fragment_password" />
+
+</navigation>

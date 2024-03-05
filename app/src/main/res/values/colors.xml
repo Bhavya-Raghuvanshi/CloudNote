@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#F6F9FE</color>
+    <color name="transparent">#00000000</color>
+    <color name="defaultNoteColor">@color/white</color>
+
+    <color name="primaryColor">@color/white</color>
+    <color name="primaryLightColor">@color/black</color>
+    <color name="primaryDarkColor">@color/white</color>
+    <color name="colorControlActivated">#E7F1FB</color>
+    <color name="colorDarkControlActivated">#121212</color>
+    <color name="secondaryColor">#212121</color>
+    <color name="secondaryLightColor">#484848</color>
+    <color name="secondaryDarkColor">#000000</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="secondaryTextColor">#ffffff</color>
+    <color name="backgroundColor">#E7F1FB</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="titleBarColor">@color/primaryColor</color>
+
+    <color name="vector_distinct_color">#2f2e41</color>
+
+    <color name="search_field_bg">@color/grey_5</color>
+
+    <color name="grey_3">#1B1717</color>
+    <color name="grey_5">#f2f2f2</color>
+    <color name="grey_10">#e6e6e6</color>
+    <color name="grey_20">#cccccc</color>
+    <color name="grey_40">#999999</color>
+    <color name="grey_60">#666666</color>
+    <color name="toolbar">#E5F0F6</color>
+    <color name="grey">#EFEFF1</color>
+    <color name="purple">#D3BFDB</color>
+    <color name="pink">#FAAFA8</color>
+    <color name="blue">#AECCDC</color>
+    <color name="orange">#F39F76</color>
+    <color name="sky">#D3E4EC</color>
+    <color name="green">#b4ded4</color>
+    <color name="back">#F9F9F9</color>
+    <color name="swipeBack">#232427</color>
+
+    <color name="buttonBarButtonStyle">@color/black</color>
+    <color name="strokeColor">@color/grey</color>
+    <color name="selected_stroke_color">#065AE1</color>
+</resources>

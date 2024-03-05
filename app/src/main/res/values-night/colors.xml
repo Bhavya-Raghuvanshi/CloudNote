@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#F6F9FE</color>
+    <color name="transparent">#00000000</color>
+    <color name="defaultNoteColor">@color/grey_3</color>
+    <color name="primaryColor">@color/white</color>
+    <color name="primaryLightColor">@color/white</color>
+    <color name="primaryDarkColor">@color/black</color>
+    <color name="colorControlActivated">#E7F1FB</color>
+    <color name="colorDarkControlActivated">#121212</color>
+    <color name="secondaryColor">#212121</color>
+    <color name="secondaryLightColor">#484848</color>
+    <color name="secondaryDarkColor">#000000</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="secondaryTextColor">#ffffff</color>
+    <color name="backgroundColor">#666666</color>
+    <color name="toolbar">#142129</color>
+
+    <color name="grey_3">#202124</color>
+    <color name="grey">#232427</color>
+    <color name="purple">#482E5B</color>
+    <color name="pink">#6D394F</color>
+    <color name="blue">#274255</color>
+    <color name="orange">#692A18</color>
+    <color name="sky">#246476</color>
+    <color name="strokeColor">@color/white</color>
+    <color name="selected_stroke_color">#A8C8FB</color>
+    <color name="swipeBack">#F9F9F9</color>
+</resources>
